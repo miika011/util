@@ -1,1 +1,4 @@
-"# util" 
+-Auto response to chinese messages ("Sorry, I don't understand Chinese")
+-/spam [message] slash command. Spams the message on General and World chat every 90 seconds. /stopspam to stop
+-/castsequence slash command. Might be buggy, not tested properly.
+-Mix and match lua utilities I've written for myself 
